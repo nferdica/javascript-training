@@ -82,7 +82,7 @@ Validator.prototype.criaChar = function(cpfParcial) {
 
 
 // Onde é inserido o número do CPF.
-const cpf = new Validator('113.002.689-21');
+const cpf = new Validator('705.484.450-52');
 //----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
